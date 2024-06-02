@@ -1,0 +1,24 @@
+core:
+  admin:
+    email:
+      sendgrid_heading: SendGrid
+      mail_sendgrid_secret_label: Secret Key
+      mail_sendgrid_from_email_label: From Email
+      mail_sendgrid_from_name_label: From Name
+
+blomstra-sendgrid:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    sendgrid:
+      heading: Webhook Behavior
+      text: 'Here are all the settings to get the SendGrid driver up and running.'
+
+    sendgrid_suspend_when_email_bounced_label: Suspend when email bounced
+    sendgrid_suspend_when_email_bounced_help: This will suspend the user account when the email is either invalid or does not exist.
+
+    sendgrid_disable_notifications_on_spam_report_label: Remove notifications on spam report
+    sendgrid_disable_notifications_on_spam_report_help: This will disable notifications when the user reported the emails sent from here as spam.
+
+  forum:
+    key: value

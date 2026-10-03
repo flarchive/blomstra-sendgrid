@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of blomstra/sendgrid.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/sendgrid) or the [upstream repository](https://github.com/blomstra/flarum-ext-sendgrid).
 
-**0** versions archived · Latest: [`1.0-beta.4`](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.4) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`1.0-beta.4`](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.4) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0-beta.1` | 2024-05-24 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.1) |
+| `1.0-beta.2` | 2024-06-02 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.2) |
+| `1.0-beta.3` | 2024-06-27 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.3) |
+| `1.0-beta.4` | 2024-10-22 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sendgrid/tree/archive/v1.0-beta.4) |
 
 Catalog entry: [packages/blomstra-sendgrid.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-sendgrid.json)
 
